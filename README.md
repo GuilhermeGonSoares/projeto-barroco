@@ -8,7 +8,7 @@ O projeto é dividido em front-end (web) e backend (API) utilizando as seguintes
 
 ## Front-end
 
-<div style= "background-color: gray">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
@@ -17,7 +17,9 @@ O projeto é dividido em front-end (web) e backend (API) utilizando as seguintes
   
  ## Back-end
  
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgresql" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typeorm/typeorm-original.svg" title="TypeORM" alt="TypeORM" width="40" height="40"/>
+ <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgresql" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typeorm/typeorm-original.svg" title="TypeORM" alt="TypeORM" width="40" height="40"/>
+  </div>
