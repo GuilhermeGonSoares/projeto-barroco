@@ -22,3 +22,10 @@ O projeto é dividido em front-end (web) e backend (API) utilizando as seguintes
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgresql" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>
   </div>
+ 
+ # Autores
+ Somos estudantes da Universidade de Brasília, sinta-se a vontade para mandar emails e sugestões!
+ 
+ - Gabriel Farago
+ - Guilherme Gonçalves guilherme16.gon@gmail.com
+ - Yan Tavares yantdo1@gmail.com
